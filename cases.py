@@ -1,2 +1,0 @@
-import gamearea
-import player
